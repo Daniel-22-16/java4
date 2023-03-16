@@ -8,6 +8,8 @@ public class Daniel {
      System.out.println("hola daniel");
      int numero = 8;
      
+     if(numero<=10){
+     
     
         
         
