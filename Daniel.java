@@ -9,13 +9,9 @@ public class Daniel {
      int numero = 8;
      
      if(numero<=10){
-     
+    System.out.println("el numero ingresado es menor que 10");
+    }    
     
-        
-        
-        
-        
-        
     }
-    
 }
+
